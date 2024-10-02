@@ -1,0 +1,137 @@
+everything is OK
+everything is OK
+everything is OK
+everything is OK
+everything is OK
+everything is OK
+everything is OK
+everything is OK
+everything is OK
+everything is OK
+everything is OK
+everything is OK
+Free disk space: 129.90969848632812
+everything is OK
+Free disk space: 129.90955352783203
+everything is OK
+Free disk space: 129.90961074829102
+everything is OK
+Free disk space: 129.90936279296875
+everything is OK
+Free disk space: 129.9093360900879
+everything is OK
+Free disk space: 129.90909576416016
+everything is OK
+Free disk space: 129.90850448608398
+everything is OK
+Free disk space: 129.90455627441406
+everything is OK
+Free disk space: 129.90460968017578
+Everything is OK
+Time executed: 2024-06-10 15:01:27
+Free disk space: 129.9045524597168
+Everything is OK
+Time executed: 2024-06-10 15:01:47
+Free disk space: 129.90439224243164
+Everything is OK
+Time executed: 2024-06-10 15:02:07
+Free disk space: 129.90436553955078
+
+Everything is OK
+Time executed: 2024-06-10 15:03:31
+Free disk space: 129.9043846130371
+
+Everything is OK
+Time executed: 2024-06-10 15:03:51
+Free disk space: 129.9043426513672
+
+Everything is OK
+Time executed: 2024-06-10 15:04:11
+Free disk space: 129.90427780151367
+
+Everything is OK
+Time executed: 2024-06-10 15:04:31
+Free disk space: 129.90432739257812
+
+Everything is OK
+Time executed: 2024-06-10 15:04:51
+Free disk space: 129.9041404724121
+
+Everything is OK
+Time executed: 2024-06-10 15:05:11
+Free disk space: 129.90413665771484
+
+Everything is OK
+Time executed: 2024-06-10 15:05:21
+Free disk space: 129.90413284301758
+CPU usage: <function check_cpu_usage at 0x0000019559026F20>
+
+Everything is OK
+Time executed: 2024-06-10 15:05:41
+Free disk space: 129.90414428710938
+CPU usage: <function check_cpu_usage at 0x0000019559026F20>
+
+Everything is OK
+Time executed: 2024-06-10 15:06:01
+Free disk space: 129.903564453125
+CPU usage: <function check_cpu_usage at 0x0000019559026F20>
+
+Everything is OK
+Time executed: 2024-06-10 15:06:21
+Free disk space: 129.90356063842773
+CPU usage: <function check_cpu_usage at 0x0000019559026F20>
+
+Everything is OK
+Time executed: 2024-06-10 15:06:41
+Free disk space: 129.90331268310547
+CPU usage: <function check_cpu_usage at 0x0000019559026F20>
+
+Everything is OK
+Time executed: 2024-06-10 15:07:01
+Free disk space: 129.90260696411133
+CPU usage: <function check_cpu_usage at 0x0000019559026F20>
+
+Everything is OK
+Time executed: 2024-06-10 15:07:21
+Free disk space: 129.90266036987305
+CPU usage: <function check_cpu_usage at 0x0000019559026F20>
+
+Everything is OK
+Time executed: 2024-06-10 15:07:27
+Free disk space: 129.9027099609375
+CPU usage: <function check_cpu_usage at 0x0000014E394C6F20>
+
+Everything is OK
+Time executed: 2024-06-10 15:07:47
+Free disk space: 129.9027099609375
+CPU usage: <function check_cpu_usage at 0x0000014E394C6F20>
+
+Everything is OK
+Time executed: 2024-06-10 15:09:43
+Free disk space: 129.90239334106445
+CPU usage: <function check_cpu_usage at 0x000001F95A186F20>%
+
+Everything is OK
+Time executed: 2024-06-10 15:11:18
+Free disk space: 129.9020233154297
+CPU usage: <function check_cpu_usage at 0x000001D38BEA6F20>%
+
+Everything is OK
+Time executed: 2024-06-10 15:11:33
+Free disk space: 129.90206909179688
+CPU usage: <function check_cpu_usage at 0x000001D38BEA6F20>%
+
+Everything is OK
+Time executed: 2024-06-10 15:11:48
+Free disk space: 129.90105819702148
+CPU usage: <function check_cpu_usage at 0x000001D38BEA6F20>%
+
+Everything is OK
+Time executed: 2024-06-10 15:14:55
+Free disk space: 129.90037155151367
+CPU usage: 2.1%
+
+Everything is OK
+Time executed: 2024-06-10 15:15:11
+Free disk space: 129.90028381347656
+CPU usage: 2.2%

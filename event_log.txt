@@ -1,0 +1,70 @@
+Event ID: 1073748864
+Time Generated: 2024-06-06 18:07:36
+Source Name: Service Control Manager
+Event Type: 4
+Event Category: 0
+Event Message: McAfee Scheduled Task - (McAfee Scheduled Task - (mc-sustainability)), demand start, disabled, McAfee Scheduled Task - (McAfee Scheduled Task - (mc-sustainability))
+--------------------------------------------------
+Event ID: 1073748869
+Time Generated: 2024-06-06 18:07:35
+Source Name: Service Control Manager
+Event Type: 4
+Event Category: 0
+Event Message: McAfee Scheduled Task - (McAfee Scheduled Task - (mc-sustainability)), "C:\Program Files\McAfee\wps\1.18.255.1\sustainability\mc-sustainability.exe", user mode service, demand start, LocalSystem
+--------------------------------------------------
+Event ID: 1073748864
+Time Generated: 2024-06-06 18:07:26
+Source Name: Service Control Manager
+Event Type: 4
+Event Category: 0
+Event Message: McAfee Scheduled Task - (McAfee-Dynamicappdownloader), demand start, disabled, McAfee Scheduled Task - (McAfee-Dynamicappdownloader)
+--------------------------------------------------
+Event ID: 1073748869
+Time Generated: 2024-06-06 18:07:20
+Source Name: Service Control Manager
+Event Type: 4
+Event Category: 0
+Event Message: McAfee Scheduled Task - (McAfee-Dynamicappdownloader), "C:\Program Files\McAfee\wps\1.18.255.1\dad\mc-dad.exe", user mode service, demand start, LocalSystem
+--------------------------------------------------
+Event ID: 17
+Time Generated: 2024-06-06 18:07:09
+Source Name: TPM
+Event Type: 4
+Event Category: 0
+Event Message: 0x1e, 960, 371, 395
+--------------------------------------------------
+Event ID: 17
+Time Generated: 2024-06-06 18:07:08
+Source Name: TPM
+Event Type: 4
+Event Category: 0
+Event Message: 0x1e, 960, 371, 395
+--------------------------------------------------
+Event ID: 17
+Time Generated: 2024-06-06 18:07:08
+Source Name: TPM
+Event Type: 4
+Event Category: 0
+Event Message: 0x1e, 960, 371, 395
+--------------------------------------------------
+Event ID: 10016
+Time Generated: 2024-06-06 18:07:03
+Source Name: DCOM
+Event Type: 2
+Event Category: 0
+Event Message: application-specific, Local, Activation, {2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}, {15C20B67-12E7-4BB6-92BB-7AFF07997402}, Tebua_xoxo, f3l1x, S-1-5-21-2514353239-1948047217-819940446-1001, LocalHost (Using LRPC), Unavailable, Unavailable
+--------------------------------------------------
+Event ID: 10016
+Time Generated: 2024-06-06 18:06:57
+Source Name: DCOM
+Event Type: 2
+Event Category: 0
+Event Message: application-specific, Local, Activation, {2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}, {15C20B67-12E7-4BB6-92BB-7AFF07997402}, Tebua_xoxo, f3l1x, S-1-5-21-2514353239-1948047217-819940446-1001, LocalHost (Using LRPC), Unavailable, Unavailable
+--------------------------------------------------
+Event ID: 17
+Time Generated: 2024-06-06 18:03:11
+Source Name: TPM
+Event Type: 4
+Event Category: 0
+Event Message: 0x1e, 960, 371, 395
+--------------------------------------------------
